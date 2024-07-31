@@ -39,5 +39,3 @@ These are personal study materials and may contain errors or misunderstandings. 
 For any questions or discussions about this repository, please open an issue or submit a pull request.
 
 GitHub: [https://github.com/maria-snarava/data-science-study](https://github.com/maria-snarava/data-science-study)
-
-Would you like me to explain or modify any part of this README?
